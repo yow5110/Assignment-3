@@ -1,7 +1,12 @@
-# Week 3 Assignment 1
+# Week 3 Assignment 4
 
-Given a set of values, the mean is defined as their sum divided by the number of values. In the following assignment you are given a list of weights and you should compute the mean value.
+In this task you will make a plot based on real-world data.
 
-TASK: Use a loop to compute the mean weight from the list of weights reported in the file (there are faster ways, please just use a while or for loop). Print the result with 1 decimal digit.   
 
-EXPECTED OUTCOME: 87.5 kg  
+TASK:  Make a 2D plot of new COVID19 cases in the UK as a function of day elapsed, using the data provided, downloaded from WHO. 
+https://covid19.who.int/data
+
+The final plot should have a horizontal dashed line at 100,000, and two vertical lines marking two peak values of your choice. The final plot should also include meaningful labels for both axis.
+
+
+EXPECTED OUTCOME:
