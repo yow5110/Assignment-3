@@ -8,6 +8,6 @@
 
 epsilon = 4.0e-4 # these are a.u.
 sigma = 6 # also a.u.
-distance = #choose your input distance
-flj = #complete this line 
+r = #choose your input distance
+flj = #complete this line that calculates the forces derived from a LJ potential analytically
 print("The force acting on two Argon atoms at a distance of ", distance, " a.u. is equal to", flj, " a.u.")
