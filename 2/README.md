@@ -1,6 +1,6 @@
 # Week 3 Assignment 2
 
-Now that you've implemented an analytic formula for the force between two Argon atoms, in this assignment, you will implement an approximate estimate of the force using finite differences. The derivative of a function can be written as the limit of the difference quotient:
+Now that you've implemented an analytical formula for the forces between two Argon atoms interacting through an LJ potential, in this assignment, you will implement an approximate estimate of the force using finite differences. The derivative of a function can be written as the limit of the difference quotient:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=f'(x)=\lim_{dx\rightarrow0}\frac{f(x&plus;dx)-f(x)}{dx}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?f'(x)=\lim_{dx\rightarrow0}\frac{f(x&plus;dx)-f(x)}{dx}" title="f'(x)=\lim_{dx\rightarrow0}\frac{f(x+dx)-f(x)}{dx}" /></a>
 
