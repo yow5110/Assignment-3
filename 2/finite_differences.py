@@ -4,21 +4,25 @@
 #
 # Variables: 
 #   epsilon, sigma: parameters of the Lennard-Jones potential, in a.u.
-#   h: finite-difference parameter
-#   flj_analytic: analytic result of the Lennard-Jones force, in a.u.
-#   flj_numerical: numerical result of the Lennard-Jones force, in a.u.
-#
+#   dx: finite-difference parameter
+
 import numpy as np
 epsilon=4.e-4 # in a.u.
 sigma=6 # in a.u.
+rmin = 5.5
+rmax = 10
+dr = 0.1
+r_range = np.arange(rmin,rmax,dr)
 
-h = 1e-5
 
-def finite_diff(f,h):
-#finish writing this function for taking finite differences
+def flj_analytical(r):
+  #return the analytical result
+  
+def flj_numerical(r,dx)
+  #return the result by numerical diffrentition
 
-flj_analytic = 
-flj_numerical= 
+flj_analytical_list = #finish constructing this list
+flj_numerical_list =  #finish constructing this list
 
 #plot two curves
 import matplotlib.pyplot as plot
