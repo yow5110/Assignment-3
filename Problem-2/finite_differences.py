@@ -1,4 +1,4 @@
-# Week 3 Assignment 2
+# Week 3 Problem 2
 # Write a finite difference calculation of the Lennard-Jones force, plot it, and compare it with a plot from your previous analytical calculation.
 #
 #
