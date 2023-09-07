@@ -1,4 +1,4 @@
-# Week 3 Assignment 1
+# Week 3 Problem 1
 # Code to compute the force between two Argon atoms, starting from the Lennard-Jones expression of the potential energy. 
 # 
 # Variables: 
