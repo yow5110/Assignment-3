@@ -1,4 +1,4 @@
-# Week 3 Assignment 3
+# Week 3 Problem 3
 # Use a loop statement to compute the mean weight from the list of weights provided in the file 
 #
 # 
